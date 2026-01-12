@@ -9,7 +9,7 @@ The app:
 - Recognizes people from a small folder of **known images**
 - Writes their **name and time** into an `Attendance.csv` file
 
-### Demonstration Link:
+### Demonstration Link
 
 https://www.loom.com/share/19cde6570e5843a89e99533547edbbf4
 
